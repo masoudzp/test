@@ -1,2 +1,1 @@
 display('hello');
-display('world');
